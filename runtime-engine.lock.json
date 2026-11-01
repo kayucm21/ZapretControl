@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "description": "Local engine fingerprints. No download URLs or credentials.",
+  "files": [
+    {
+      "destination": "ClassicData/exe/winws2.exe",
+      "source": "winws2.exe",
+      "sha256": "31d3188d63757d89a22a16ee397f9bffae5e6150e86f00160ab9c50d3a107d4d"
+    },
+    {
+      "destination": "ClassicData/exe/cygwin1.dll",
+      "source": "cygwin1.dll",
+      "sha256": "103104a52e5293ce418944725df19e2bf81ad9269b9a120d71d39028e821499b"
+    },
+    {
+      "destination": "ClassicData/exe/WinDivert.dll",
+      "source": "WinDivert.dll",
+      "sha256": "944368b7a6eb0a97701e152a9171267db66377cc31bde415ab5da22c7a09cc43"
+    },
+    {
+      "destination": "ClassicData/exe/WinDivert64.sys",
+      "source": "Monkey64.sys",
+      "sha256": "8da085332782708d8767bcace5327a6ec7283c17cfb85e40b03cd2323a90ddc2"
+    },
+    {
+      "destination": "ClassicData/lua/zapret-lib.lua",
+      "source": "lua/zapret-lib.lua",
+      "sha256": "2740b1bc0e728c4283846df94783844082eabd503ce1f86e3429159e1b4e8de3"
+    },
+    {
+      "destination": "ClassicData/lua/zapret-antidpi.lua",
+      "source": "lua/zapret-antidpi.lua",
+      "sha256": "9ef64f894d920e2ceea05707899f67b206d5009ba762eb5265f409264b34214c"
+    },
+    {
+      "destination": "ClassicData/bin/tls_clienthello_www_google_com.bin",
+      "source": "bin/tls_clienthello_www_google_com.bin",
+      "sha256": "936c2bee4cfb80aa3c426b2dcbcc834b3fbcd1adb17172959dc569c73a14275c"
+    },
+    {
+      "destination": "ClassicData/bin/stun.bin",
+      "source": "bin/stun.bin",
+      "sha256": "9cd5469309780ca56c0bd97266524a48c7ee529d02c3179cfecb20b260a59641"
+    },
+    {
+      "destination": "ClassicData/bin/quic_initial_www_google_com.bin",
+      "source": "bin/quic_initial_www_google_com.bin",
+      "sha256": "f4589c57749f956bb30538197a521d7005f8b0a8723b4707e72405e51ddac50a"
+    },
+    {
+      "destination": "ClassicData/bin/dtls_clienthello_w3_org.bin",
+      "source": "bin/dtls_clienthello_w3_org.bin",
+      "sha256": "5bacd8cb6bd451f2374e55bc066b632e3c88fb852e3a44f19e6246c04d127be5"
+    },
+    {
+      "destination": "ClassicData/lists/ipset-discord.txt",
+      "source": "lists/discord-ipset.txt",
+      "sha256": "7322fcccec319c666d6828d8c8fa3d497411a3ecc294d82bd03b6058354f95c1"
+    }
+  ]
+}
